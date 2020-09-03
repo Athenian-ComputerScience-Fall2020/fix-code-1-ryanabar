@@ -1,7 +1,9 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
+#  none
+
 
 def times_3(number):
+    number= int(number)
     product = number * 3
     return product
 
